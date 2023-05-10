@@ -1,12 +1,12 @@
-title: "The Hilarious Chronicles of [Your Name] - A Self-Documentary"
+title: "Cameron McCoy"
 theme: jekyll-theme-cayman
 description: >
-  Welcome to the laugh-tastic world of [Your Name]! Sit back, relax, and prepare to be entertained by the quirkiest, most bizarre, and never-before-seen adventures of my life.
+  Welcome!
 
 # Repository settings
 repository:
-  name: "[your-username]/the-hilarious-chronicles"
-  url: "https://github.com/[your-username]/the-hilarious-chronicles"
+  name: "cabmeron/cabmeron.github.io"
+  url: "https://cabmeron.github.io/"
   type: "public"
 
 # Navigation menu
