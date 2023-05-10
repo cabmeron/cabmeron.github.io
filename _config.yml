@@ -1,1 +1,66 @@
-theme: jekyll-theme-modernist
+# This is a funny .yml configuration file for a GitHub Pages site about yourself
+
+title: "The Hilarious Chronicles of [Your Name] - A Self-Documentary"
+theme: jekyll-theme-cayman
+description: >
+  Welcome to the laugh-tastic world of [Your Name]! Sit back, relax, and prepare to be entertained by the quirkiest, most bizarre, and never-before-seen adventures of my life.
+
+# Repository settings
+repository:
+  name: "[your-username]/the-hilarious-chronicles"
+  url: "https://github.com/[your-username]/the-hilarious-chronicles"
+  type: "public"
+
+# Navigation menu
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Funniest Moments"
+    url: "/funniest-moments"
+  - title: "Bad Jokes & Puns"
+    url: "/bad-jokes"
+  - title: "Awkward Encounters"
+    url: "/awkward-encounters"
+  - title: "Meme Hall of Fame"
+    url: "/meme-hall-of-fame"
+  - title: "Contact"
+    url: "/contact"
+
+# Social media profiles
+social:
+  - name: "Twitter"
+    url: "https://twitter.com/[your-twitter-handle]"
+    icon: "fab fa-twitter"
+  - name: "Instagram"
+    url: "https://instagram.com/[your-instagram-handle]"
+    icon: "fab fa-instagram"
+  - name: "LinkedIn"
+    url: "https://linkedin.com/in/[your-linkedin-handle]"
+    icon: "fab fa-linkedin"
+  - name: "YouTube"
+    url: "https://www.youtube.com/channel/[your-youtube-channel-id]"
+    icon: "fab fa-youtube"
+
+# Collections for categorizing content
+collections:
+  funniest_moments:
+    output: true
+  bad_jokes:
+    output: true
+  awkward_encounters:
+    output: true
+  meme_hall_of_fame:
+    output: true
+
+# Google Analytics tracking (optional)
+# Replace 'UA-XXXXX-Y' with your own tracking ID
+google_analytics: "UA-XXXXX-Y"
+
+# Additional settings for laughs
+extra_settings:
+  chuck_norris_mode: true
+  pun_level: "over_9000"
+  enable_laugh_track: true
+  always_include_a_gif: true
+
+# Have fun creating your hilarious GitHub Pages site!
